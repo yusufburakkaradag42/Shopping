@@ -39,13 +39,13 @@ header div button {
     height: 80px;
 }
 header div button:nth-child(1) {
-  background-color: black;
+  background-color: rgba(109, 18, 79, 0.446);
 }
 header div button:nth-child(2) {
-  background-color: blue;
+  background-color: rgba(8, 104, 32, 0.43);
 }
 header div button:nth-child(3) {
-  background-color: red;
+  background-color: rgba(16, 59, 2, 0.861);
 }
 .category-wrapper {
   padding: 50px;

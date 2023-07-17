@@ -35,7 +35,9 @@ header div button {
   cursor: pointer;
   color: white;
 }
-
+.logo{
+    height: 80px;
+}
 header div button:nth-child(1) {
   background-color: black;
 }
